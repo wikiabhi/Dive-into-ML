@@ -13,17 +13,17 @@ This Repository includes:
 7. Gradient Descent 
 9. Classification 
 	* Measures:
-		a. Confusion Metrics
-		b. Classification Report
+		- [ ]  Confusion Metrics
+		- [ ]  Classification Report
 
 	* Algorithms:
-		a. Principal Component Analysis
-		b. Decision Trees
-		c. Random Forest
-		d. Naive Bayes
-		e. K Nearest Neighbours (KNN)
-		f. Support Vector Machine (SVM)
-		g. Principal Component Analysis (PCA)
+		- [ ]  Principal Component Analysis
+		- [ ]  Decision Trees
+		- [ ]  Random Forest
+		- [ ]  Naive Bayes
+		- [ ]  K Nearest Neighbours (KNN)
+		- [ ]  Support Vector Machine (SVM)
+		- [ ]  Principal Component Analysis (PCA)
 
 		
 and still working on...
