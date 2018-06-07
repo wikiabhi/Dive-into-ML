@@ -28,3 +28,8 @@ This Repository includes:
 		
 and still working on...
 
+#Clone the Repo:
+git clone https://github.com/wikiabhi/Dive-into-ML.git
+
+``` MIT License ```
+```Copyright (c) 2018 Abhishek```
